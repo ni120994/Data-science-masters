@@ -1,0 +1,50 @@
+1. Who developed python programming language?
+Ans: Guido van Rossum.
+
+2. Which type of programming does python support?
+Ans: Object Oriented Programming and Structured programming.
+
+3. Is python case sensitive when dealing with identifiers?
+Ans: Yes.
+
+4. What is correct extension of the python file?
+Ans: .py
+
+5. Is python code compiled or interpreted?
+Ans: Interpreted language
+
+6. Name a few blocks of code used to define in python language?
+Ans: function,body,class def
+
+7. State a character used to give single line comments in python?
+Ans: #
+
+8. Mention functions which can help us to find the version of python that we are currently working on?
+Ans: sys.version
+
+9. Python supports the creation of anonymous function at runtime, using a construct called?
+Ans: Lamda
+
+10. What does pip stands for in python?
+Ans: Prefferred installer program
+
+11. Mention a few built-in function in python?
+Ans: type(),bool(),char(),len(),print()
+
+12.What is the maximum length of an identifier in Python?
+Ans: 79 chars
+
+13.What are the benefits of using python?
+Ans: Easy, simple and clean
+
+14. How is memory managed in python?
+Ans:  Memory is manages using heap in python.
+
+15. How to install pyhthon on windows and set path variables?
+Ans: 1.Download python installer from python offical website.
+     2. Run the the exe file.
+     3. Select add python to path and install for all users.
+
+16. Is indentetion required in python?
+Ans: Yes
+	
